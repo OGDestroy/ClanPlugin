@@ -1,0 +1,6 @@
+name: Clan
+version: '${project.version}'
+main: me.destroy.clan.Clan
+api-version: 1.19
+authors: [ OG_Destroy ]
+description: Clans Plugin
